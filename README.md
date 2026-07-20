@@ -21,6 +21,10 @@ ein Monster und einem Drachen.
 ## Steuerung: 
 Tasten 1, 2, 3 und dann Enter. Alle anderen Eingaben beenden das Spiel.
 
-
+## Karte der Entscheidungswege
 <img width="821" height="1141" alt="Peithorn Map" src="https://github.com/user-attachments/assets/1a4dd52c-bc43-4202-8287-365615e61cd2" />
+
+## Screenshot des Spiels
+<img width="1338" height="519" alt="Spiel" src="https://github.com/user-attachments/assets/840a7961-5c06-4f0b-b173-6515ed30cf0d" />
+
 
